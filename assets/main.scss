@@ -110,3 +110,25 @@ a.download-link::after {
 a.download-link:hover::after {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23111' d='M12 16l-5-5h3V4h4v7h3l-5 5zm-7 2h14v2H5v-2z'/%3E%3C/svg%3E");
 }
+
+.legal-links {
+  margin-top: 20px;
+  padding-top: 12px;
+  border-top: 1px solid #e8e8e8;
+  font-size: 0.85em;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+ 
+.legal-links a {
+  color: #828282;
+  text-decoration: none;
+}
+ 
+.legal-links a:hover {
+  color: #313131;
+  text-decoration: underline;
+}
+ 
