@@ -7,7 +7,7 @@ description: "PhD candidate in Computer Science at Kiel University, researching 
 meta_description: "Your longer or differently worded description for search engines."
 tagline: "PhD Candidate in Computer Science · Kiel University"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "christianbeth.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://christianbeth.com"
 github_username:  c-beth
 linkedin_username: christian-beth
 google_scholar: g991gX4AAAAJ
