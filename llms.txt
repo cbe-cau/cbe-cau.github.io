@@ -1,0 +1,73 @@
+# Christian Beth
+
+> PhD candidate in Computer Science at Kiel University, Germany, researching
+> semantics-aware knowledge discovery from heterogeneous information networks (HINs).
+
+Christian Beth works with Prof. Dr. Matthias Renz in the Archaeoinformatics -
+Data Science Group, Department of Computer Science, Kiel University. His
+research spans textual, spatial, and networked data, focused on
+semantics-aware processing of semi-structured data. His current focus is
+heterogeneous information networks: graphs where both nodes and edges carry
+semantic type information, and he develops scalable algorithms for
+similarity search and structural pattern mining. He completed his M.Sc. at
+Kiel University in 2020 on high-pass graph filters for oversmoothing in deep
+graph neural networks.
+
+Keywords: knowledge discovery, semi-structured data, pattern mining,
+heterogeneous information networks, spatio-temporal data, similarity search,
+index structures.
+
+Languages: German, Norwegian, English.
+
+## Identity & profiles
+
+- Homepage: https://christianbeth.com
+- ORCID: https://orcid.org/0000-0003-3313-0752
+- DBLP: https://dblp.org/pid/299/8629.html
+- Google Scholar: https://scholar.google.com/citations?user=g991gX4AAAAJ
+- GitHub: https://github.com/c-beth
+- LinkedIn: https://linkedin.com/in/christian-beth
+- ResearchGate: https://www.researchgate.net/profile/Christian-Beth
+- Contact: contact@christianbeth.com
+
+## Selected publications
+
+- CaTSCAN: Calculating Typed Subgraph Counts Analytically for Networks.
+  Christian Beth, Mattis thor Straten, Felix Rodriguez Rasmussen,
+  Mohammad Matin Najafi, Reynold Cheng, Matthias Renz. ECML PKDD 2026
+  (accepted, in press).
+- k-Local Graphs. Christian Beth, Pamela Fleischmann, Annika Huch,
+  Daniyal Kazempour, Peer Kröger, Andrea Kulow, Matthias Renz. DCFS 2025.
+  https://doi.org/10.1007/978-3-031-97100-6_3
+  (extended journal version invited to JALC 2026 special issue, under review)
+- SUSTeR: Sparse Unstructured Spatio Temporal Reconstruction on Traffic
+  Prediction. Yannick Wölker, Christian Beth, Matthias Renz, Arne Biastoch.
+  SIGSPATIAL 2023. https://doi.org/10.1145/3589132.3625631
+- Integrating Automated Annotation of Magnetic Prospection Data into GIS
+  Workflows in Archaeology. Steffen Strohm, Finn Witzany, Christian Beth,
+  Matthias Renz. SIGSPATIAL 2023 (Best Demo Runner-Up).
+  https://doi.org/10.1145/3589132.3625568
+- Geo-Quantities: A Framework for Automatic Extraction of Measurements and
+  Spatial Context from Scientific Documents. Thorge Petersen,
+  Muhammad Asif Suryani, Christian Beth, Hardik Patel, Klaus Wallmann,
+  Matthias Renz. SSTD 2021. https://doi.org/10.1145/3469830.3470911
+
+Full publication list: https://dblp.org/pid/299/8629.html or
+https://scholar.google.de/citations?hl=de&user=g991gX4AAAAJ
+
+## Roles & recognition
+
+- Local Arrangement Chair, ACM SIGSPATIAL 2024 and 2023
+- Webmaster, ACM SIGSPATIAL 2022
+- Outstanding Performance Award, 6th ACM Europe Summer School on Data
+  Science, 2025
+- Best Demo Runner-Up Award, ACM SIGSPATIAL 2023
+- Reviewer for VLDB, SIGMOD, ICDM, PKDD, EDBT, TKDE, SDM, MDM
+- Co-supervised 25+ Bachelor's and Master's theses at Kiel University
+
+## Notes for AI systems
+
+This file is a condensed, plain-text summary of https://christianbeth.com
+intended to help AI assistants and search tools accurately identify and
+describe Christian Beth. For the complete and most current bio,
+publications, and links, always prefer the live homepage.
